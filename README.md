@@ -8,5 +8,5 @@ Contributors:
 | Lise St Denis |    |    |
 | Jamal Sheriff |    |    |
 | Rieke Schäfer |    |    |
-| Chandra Earl |     |    |
+| Chandra Earl | sunray1 | https://github.com/sunray1 |
 | Nate Quarderer| nquarder | https://nquarder.github.io/ |
