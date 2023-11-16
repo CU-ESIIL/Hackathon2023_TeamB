@@ -6,7 +6,8 @@ Contributors:
 | ---- | --------------- | ------------- |
 | Eligio Maure | elgyii | https://github.com/Elgyii |
 | Lise St Denis |    |    |
-| Jamal Sheriff |    |    |
+| Jamal Sheriff | jsheriff0915 | https://github.com/jsheriff0915 |
 | Rieke Schäfer | riekeschaefer |    |
 | Chandra Earl | sunray1 | https://github.com/sunray1 |
 | Nate Quarderer| nquarder | https://nquarder.github.io/ |
+ 
