@@ -25,4 +25,7 @@ unzip(data_file)
 # read df
 fired <- st_read("fired_conus_ak_to_January_2022_gpkg_shp/conus_ak_to2022001_events.shp") 
 
+fired <- st_read("fired_conus_ak_to_January_2022_gpkg_shp/conus_ak_to2022001_events.shp") 
 
+summary(fired)
+str(fired)
