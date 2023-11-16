@@ -5,7 +5,7 @@ Contributors:
 | Name | GitHub Username | Portfolio URL |
 | ---- | --------------- | ------------- |
 | Eligio Maure | elgyii | https://github.com/Elgyii |
-| Lise St Denis |    |    |
+| Lise St Denis | lisestdenis   | https://github.com/lisestdenis |
 | Jamal Sheriff | jsheriff0915 | https://github.com/jsheriff0915 |
 | Rieke Schäfer | riekeschaefer |    |
 | Chandra Earl | sunray1 | https://github.com/sunray1 |
