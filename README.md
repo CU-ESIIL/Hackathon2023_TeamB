@@ -4,7 +4,7 @@ repository for all things Team B for ESIIL 2023 hackathon
 Contributors:
 | Name | GitHub Username | Portfolio URL |
 | ---- | --------------- | ------------- |
-| Eligio Maure |     |    |
+| Eligio Maure | elgyii | https://github.com/Elgyii |
 | Lise St Denis |    |    |
 | Jamal Sheriff |    |    |
 | Rieke Schäfer | riekeschaefer |    |
